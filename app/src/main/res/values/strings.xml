@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudenManagement</string>
+    <string name="welcome">欢迎来到班级管理系统</string>
+    <string name="id">账 号 ：</string>
+    <string name="stnexp">输入学号/教工号</string>
+    <string name="password">密 码 ：</string>
+    <string name="pasexp">输入密码</string>
+    <string name="login">登 录</string>
+
+    <string name="login_toast">账号或密码不能为空！</string>
+</resources>
